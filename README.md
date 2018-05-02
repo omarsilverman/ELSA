@@ -1,5 +1,5 @@
 # ELSA
-Trajectories of obesity by spousal diabetes status analisys
+Trajectories of obesity by spousal diabetes status analysis
 
 Something
 
